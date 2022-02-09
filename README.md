@@ -2,7 +2,8 @@
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Data Science Machine Learning
 - 💞️ I’m looking to collaborate on Artificial Intelligence
-- 📫 How to reach me Twiitter - @Vipul80210007[https://twitter.com/Vipul80210007]
+- 📫 How to reach me Twiitter - [@Vipul80210007](https://twitter.com/Vipul80210007)
+Linkedin-[Vipul Kumar](https://www.linkedin.com/in/vipul-kumar-5a337822a/)
 
 <!---
 Vparihar001/Vparihar001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
